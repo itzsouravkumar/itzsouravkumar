@@ -27,7 +27,7 @@ Feel free to reach out if you want to collaborate on any project or just chat ab
 
 - 📧 Email: oyesourav05012006@gmail.com
 - 📸 Instagram: https://www.instagram.com/itz_sour4v/
-- 💬 Discord: Username: quipxninja
+- 💬 Discord Username: quipxninja
 
 ---
 
