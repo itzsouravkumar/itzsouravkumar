@@ -1,34 +1,50 @@
-# Hi there! I'm Sourav Kumar 👋
+# Hi there! I'm Sourav Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-## About Me
-
-- 🎓 **Currently pursuing BTech 1st Year** in **Computer Science Engineering** with a specialization in **Cybersecurity**.
-- 🧑‍💻 **Coder** | Passionate about learning new programming languages.
-- 🎮 **Gamer** | I love playing online games! 🕹️
-- 🌍 **Learning** | Always exploring new technologies and improving my skills.
-- 📧 **Contact**: [oyesourav05012006@gmail.com](mailto:oyesourav05012006@gmail.com)
-- 📸 **Instagram**: [itz_sour4v](https://www.instagram.com/itz_sour4v/)
-
-## Skills & Interests
-- 🔐 Cybersecurity
-- 💻 Programming (Python, C, C++, etc.)
-- 🌐 Web Development
-- 💬 Learning new languages
-- 🧩 Problem Solving and Coding Challenges
-
-## Projects
-
-Here are some of the cool projects I’m working on:
-- 🔧 **[Genome Database Explorer](#)**: A web app to explore gene information using the NCBI database.
-
-## Connect with Me
-
-Feel free to reach out if you want to collaborate on any project or just chat about tech, coding, or gaming!
-
-- 📧 Email: oyesourav05012006@gmail.com
-- 📸 Instagram: https://www.instagram.com/itz_sour4v/
-- 💬 Discord Username: quipxninja
+## About Me  
+🎓 **Currently pursuing BTech 1st Year** in **Computer Science Engineering** with a specialization in **Cybersecurity**.  
+🧑‍💻 **Coder** | Passionate about exploring and mastering new programming languages.  
+🎮 **Gamer** | Enjoying the thrill of online games! 🕹️  
+🌍 **Lifelong Learner** | Continuously exploring cutting-edge technologies and improving my skills.  
 
 ---
 
-Let’s code, create, and explore together! 🚀
+## 🚀 Skills & Interests  
+- 🔐 **Cybersecurity**  
+- 💻 **Programming**: Python, C, C++  
+- 🌐 **Web Development**  
+- 🧩 **Problem-Solving & Coding Challenges**  
+- 🌏 **Learning new languages**  
+
+---
+
+## 🌟 Projects  
+
+💡 **[Genome Database Explorer](#)**  
+A web app to explore gene information using the NCBI database and visualize chromosome locations.
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzsouravkumar&show_icons=true&theme=radical&count_private=true" alt="Sourav's GitHub Stats" height="200px" />
+  <img src="https://streak-stats.demolab.com/?user=itzsouravkumar&theme=radical" alt="Sourav's GitHub Streak" height="200px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsouravkumar&layout=compact&theme=radical" alt="Top Languages" height="200px" />
+</div>
+
+---
+
+## 📫 Connect with Me  
+
+Feel free to reach out if you want to collaborate or just chat about **tech, coding, or gaming**!  
+
+- 📧 **Email**: [oyesourav05012006@gmail.com](mailto:oyesourav05012006@gmail.com)  
+- 📸 **Instagram**: [itz_sour4v](https://www.instagram.com/itz_sour4v/)  
+- 💬 **Discord**: [itz_sour4v](https://discord.com/channels/@me) 
+
+---
+
+⚡ Let's **code, create, and explore** together! 🚀  
