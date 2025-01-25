@@ -10,17 +10,10 @@
 
 ## 🚀 Skills & Interests  
 - 🔐 **Cybersecurity**  
-- 💻 **Programming**: Python, C, C++  
+- 💻 **Programming**: JavaScript, C++  
 - 🌐 **Web Development**  
 - 🧩 **Problem-Solving & Coding Challenges**  
 - 🌏 **Learning new languages**  
-
----
-
-## 🌟 Projects  
-
-💡 **[Genome Database Explorer](#)**  
-A web app to explore gene information using the NCBI database and visualize chromosome locations.
 
 ---
 
