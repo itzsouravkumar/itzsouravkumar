@@ -21,7 +21,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itzsouravkumar&show_icons=true&theme=radical&count_private=true" alt="Sourav's GitHub Stats" height="200px" />
-  <img src="https://streak-stats.demolab.com/?user=itzsouravkumar&theme=radical" alt="Sourav's GitHub Streak" height="200px" />
 </div>
 
 <div align="center">
