@@ -23,9 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=itzsouravkumar&show_icons=true&theme=radical&count_private=true" alt="Sourav's GitHub Stats" height="200px" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsouravkumar&layout=compact&theme=radical" alt="Top Languages" height="200px" />
-</div>
 
 ---
 
