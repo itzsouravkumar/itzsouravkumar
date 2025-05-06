@@ -36,10 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itzsouravkumar&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsouravkumar&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsouravkumar&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
