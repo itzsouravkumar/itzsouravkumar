@@ -40,9 +40,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsouravkumar&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsouravkumar&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
-
 ---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsouravkumar&theme=tokyo-night&area=true&hide_border=true" />
