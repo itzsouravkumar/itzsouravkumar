@@ -1,39 +1,61 @@
-# Hi there! I'm Sourav Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center">Hi 👋, I'm Sourav Kumar</h1>
+<h3 align="center">BTech CSE | Cybersecurity Enthusiast | Programmer | Gamer</h3>
 
-## About Me  
-🎓 **Currently pursuing BTech 1st Year** in **Computer Science Engineering** with a specialization in **Cybersecurity**.  
-🧑‍💻 **Coder** | Passionate about exploring and mastering new programming languages.  
-🎮 **Gamer** | Enjoying the thrill of online games! 🕹️  
-🌍 **Lifelong Learner** | Continuously exploring cutting-edge technologies and improving my skills.  
-
----
-
-## 🚀 Skills & Interests  
-- 🔐 **Cybersecurity**  
-- 💻 **Programming**: JavaScript, C++  
-- 🌐 **Web Development**  
-- 🧩 **Problem-Solving & Coding Challenges**  
-- 🌏 **Learning new languages**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;C%2B%2B+%7C+JavaScript+Programmer;Web+Developer" alt="Typing Animation" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzsouravkumar&show_icons=true&theme=radical&count_private=true" alt="Sourav's GitHub Stats" height="200px" />
-</div>
-
-
----
-
-## 📫 Connect with Me  
-
-Feel free to reach out if you want to collaborate or just chat about **tech, coding, or gaming**!  
-
-- 📧 **Email**: [oyesourav05012006@gmail.com](mailto:oyesourav05012006@gmail.com)  
-- 📸 **Instagram**: [itz_sour4v](https://www.instagram.com/itz_sour4v/)  
-- 💬 **Discord**: [itz_sour4v](https://discord.com/channels/@me) 
+🎓 I'm a **BTech 1st Year** student specializing in **Cybersecurity**  
+🛡️ Passionate about digital security and ethical hacking  
+💻 Coding in C++ and JavaScript — learning daily  
+🎮 Gamer and tech enthusiast — always exploring something new!
 
 ---
 
-⚡ Let's **code, create, and explore** together! 🚀  
+## 🛠 Tech Stack
+
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzsouravkumar&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsouravkumar&theme=radical&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsouravkumar&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsouravkumar&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:oyesourav05012006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/itz_sour4v"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/users/itz_sour4v"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
