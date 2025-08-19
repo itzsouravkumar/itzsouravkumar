@@ -11,8 +11,8 @@
 
 🎓 I'm a **BTech 2nd Year** student specializing in **Cybersecurity**  
 🛡️ Passionate about digital security and ethical hacking  
-💻 Coding in C++ and JavaScript — learning daily  
-🎮 Gamer and tech enthusiast — always exploring something new!
+💻 Coding in C++ and JavaScript - learning daily  
+🎮 Gamer and tech enthusiast - always exploring something new!
 
 ---
 
