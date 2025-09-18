@@ -35,8 +35,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzsouravkumar&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsouravkumar&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="170" alt="Top Languages" />
+  <!-- Languages & Stats -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzsouravkumar&theme=radical" height="170" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzsouravkumar&theme=radical" height="170" alt="GitHub Stats" />
 </p>
 
 <p align="center">
