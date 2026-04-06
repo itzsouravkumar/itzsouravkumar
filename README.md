@@ -59,15 +59,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzsouravkumar&theme=radical" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzsouravkumar&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzsouravkumar&theme=radical" height="180" alt="Most Commit Language" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsouravkumar&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
