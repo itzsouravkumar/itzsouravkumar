@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sourav Kumar</h1>
 <h3 align="center">BTech CSE | Cybersecurity Enthusiast | Full Stack Developer | Designer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Full+Stack+Developer;C%2B%2B+%7C+JavaScript+%7C+Python+Programmer;3D+Web+%26+Creative+Designer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Full+Stack+Developer;C%2B%2B+%7C+JavaScript+%7C+Python+Programmer;3D+Web+%26+Creative+Designer" />
 </p>
 
 ---
@@ -59,7 +60,22 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsouravkumar&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itzsouravkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itzsouravkumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itzsouravkumar&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsouravkumar&theme=tokyo-night&area=true&hide_border=true&custom_title=Sourav's%20Contribution%20Graph" />
 </p>
 
 ---
@@ -73,7 +89,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itzsouravkumar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=itzsouravkumar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
