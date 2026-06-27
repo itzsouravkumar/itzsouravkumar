@@ -2,8 +2,6 @@
 
 # Sourav Kumar
 
-**B.Tech Computer Science (Cybersecurity) · SRM Institute of Science and Technology, Chennai**
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-sourav.works-000000?style=flat-square&logo=vercel&logoColor=white)](https://sourav.works/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-itssouravkumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itssouravkumar/)
 [![Gmail](https://img.shields.io/badge/Gmail-oyesourav05012006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oyesourav05012006@gmail.com)
@@ -11,16 +9,6 @@
 [![Discord](https://img.shields.io/badge/Discord-itz__sour4v-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/itz_sour4v)
 
 </div>
-
----
-
-## About
-
-I am a third-year undergraduate in Computer Science with a specialization in Cybersecurity, currently focused on full-stack engineering, system design, and applied AI. My work spans production-grade web applications, distributed systems architecture, and 3D web experiences using Three.js and WebGL.
-
-I am actively moving deeper into systems thinking - studying how large-scale software is architected, how infrastructure is built and maintained, and how AI integrates into real engineering workflows. My goal is to operate at the intersection of full-stack development, DevOps, and AI research.
-
-Currently open to internships in software engineering, backend systems, and AI/ML research.
 
 ---
 
@@ -83,14 +71,3 @@ Currently open to internships in software engineering, backend systems, and AI/M
 
 </div>
 
----
-
-## Contact
-
-Reach me at [oyesourav05012006@gmail.com](mailto:oyesourav05012006@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/itssouravkumar/). I respond within 24 hours.
-
----
-
-<div align="center">
-<sub>Chennai, India · Last updated May 2026</sub>
-</div>
